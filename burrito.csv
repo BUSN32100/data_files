@@ -1,0 +1,329 @@
+Location,Burrito,Hunger,Tortilla,Temp,Meat,Fillings,Meat:filling,Uniformity,Salsa,Wrap,Cost,Reviewer,Rec,overall
+donato's taco shop,california,3.0,3.0,5.0,3.0,3.5,4.0,4.0,4.0,4.0,6.49,scott,Yes,3.8
+oscar's mexican food,california,3.5,2.0,3.5,2.5,2.5,2.0,4.0,3.5,5.0,5.45,scott,No,3.0
+oscar's mexican food,carnitas,1.5,3.0,2.0,2.5,3.0,4.5,4.0,3.0,5.0,4.85,emily,No,3.0
+oscar's mexican food,carne asada,2.0,3.0,2.0,3.5,3.0,4.0,5.0,4.0,5.0,5.25,ricardo,Yes,3.75
+pollos maria,california,4.0,4.0,5.0,4.0,3.5,4.5,5.0,2.5,4.0,6.59,scott,Yes,4.2
+pollos maria,combo chicken,4.0,3.0,4.0,5.0,3.5,2.5,2.5,2.5,1.0,6.99,emily,No,3.2
+los primos mexican food,monster california,3.5,2.0,4.5,4.5,3.5,1.5,3.0,3.5,2.0,9.25,scott,Yes,3.9
+jv's mexican food,carne asada,3.5,2.5,1.5,1.5,3.0,4.5,3.0,1.5,4.5,6.25,scott,No,2.0
+jv's mexican food,surf & turf,2.0,2.5,2.5,2.75,2.5,2.5,2.0,0.5,3.5,9.5,emily,No,2.5
+tony's fresh mexican food,chile verde pork,2.0,3.0,4.0,4.0,3.0,4.0,4.0,1.0,1.0,6.95,marc,No,3.0
+tony's fresh mexican food,california,3.5,3.0,3.5,3.5,4.0,2.0,3.5,1.0,4.0,6.25,scott,Yes,3.9
+tony's fresh mexican food,battered fish,3.0,3.0,1.0,1.5,2.5,4.0,4.0,3.0,5.0,6.99,nicole,No,2.0
+taco stand,california,4.0,3.0,2.5,4.0,4.0,3.5,2.5,3.5,4.5,7.49,emily,Yes,4.2
+taco stand,surf and turf,2.5,4.0,4.0,4.5,4.0,5.0,4.5,3.5,2.0,8.49,scott,Yes,4.1
+graciela's taco shop,adobada,3.0,4.0,4.0,3.0,3.5,4.0,4.5,4.0,4.5,5.99,scott,Yes,4.0
+rigoberto's taco shop la jolla,california,4.0,3.0,4.0,2.75,3.0,4.0,2.0,2.0,5.0,6.4,leo,No,3.0
+rigoberto's taco shop la jolla,california,2.5,3.5,3.0,3.0,3.0,4.0,4.0,1.5,4.5,6.4,scott,Yes,3.5
+lolita's taco shop,2 in 1,3.5,1.5,2.0,3.0,3.5,4.0,1.0,3.5,4.0,8.75,scott,Yes,4.0
+lolita's taco shop,adobado,2.5,1.5,2.5,3.5,3.0,4.0,1.5,2.5,4.5,5.5,emily,Yes,3.5
+taco stand,california,2.5,4.0,3.0,4.0,4.0,4.0,4.0,4.0,3.0,7.49,scott,Yes,4.6
+taco stand,california,2.5,3.0,2.0,4.5,4.0,4.0,3.5,3.0,4.5,7.49,emily,Yes,4.5
+lola's 7 up market & deli,shredded beef,3.5,2.5,2.5,3.0,4.0,4.0,4.0,3.0,1.5,6.0,emily,Yes,3.8
+lola's 7 up market & deli,carne asada,3.5,2.5,3.0,3.0,4.0,2.0,2.0,3.0,3.5,7.0,scott,No,3.0
+colima's mexican food,hawaiian,3.5,3.5,5.0,4.0,4.0,3.5,4.5,3.5,4.0,6.29,scott,Yes,4.0
+colima's mexican food,bandido,4.5,3.0,5.0,4.0,4.0,5.0,4.0,2.5,4.0,6.49,sage,Yes,4.0
+colima's mexican food,bandido,4.5,3.0,4.5,3.5,3.5,3.5,3.0,3.0,4.0,6.49,eli,No,3.0
+rigoberto's taco shop,carne asada,3.5,4.0,2.0,4.0,3.5,4.5,4.0,3.5,1.0,6.6,ricardo,Yes,4.25
+rigoberto's taco shop,campeon,3.5,3.0,1.5,3.0,3.0,2.5,3.0,3.5,4.0,7.65,scott,Yes,3.4
+el zarape,california,0.5,3.0,5.0,4.0,2.75,4.0,1.6,3.5,5.0,6.25,kelsey,Yes,3.33333
+el zarape,california chicken,3.0,3.5,5.0,2.5,2.5,4.0,2.7,3.5,5.0,6.25,sage,No,2.5
+el zarape,azteca,3.75,3.0,5.0,5.0,4.5,4.0,4.0,1.5,5.0,6.25,jake,No,3.0
+el zarape,lobster,3.0,3.0,3.0,4.0,3.0,3.5,4.5,3.5,3.5,9.5,scott,No,3.2
+el indio,california,4.0,4.0,4.0,3.5,4.0,4.5,4.0,3.5,4.5,7.84,scott,Yes,4.0
+taco stand,carne asada,1.0,3.0,3.5,4.5,4.0,5.0,5.0,4.5,5.0,7.89,scott,Yes,4.2
+taco stand,al pastor,4.0,4.0,3.0,3.5,3.0,4.0,5.0,3.0,5.0,6.99,emily,Yes,3.5
+cancun mexican & seafood,california,4.0,4.0,4.5,4.0,3.5,4.0,2.5,2.0,4.0,6.99,scott,Yes,4.2
+cancun mexican & seafood,machaca,3.0,4.0,3.5,3.5,4.0,3.5,3.5,2.0,0.5,5.99,emily,Yes,3.9
+vallarta express,quesaburro,3.5,3.0,4.0,3.5,4.0,4.0,4.0,3.5,4.5,6.95,scott,Yes,4.1
+vallarta express,philly,4.0,3.0,4.5,4.0,3.0,3.0,2.0,4.0,4.5,6.95,torben,No,3.0
+vallarta express,carne asada,3.5,3.75,5.0,3.0,3.0,4.5,4.5,3.5,4.5,6.5,ricardo,No,3.25
+vallarta express,quesa,4.5,2.0,5.0,3.5,4.0,2.5,5.0,3.5,4.0,6.95,alex,Yes,3.75
+vallarta express,surf and turf,3.0,2.0,4.0,3.0,3.0,4.0,2.0,4.0,3.0,7.65,richard,Yes,3.5
+vallarta express,mahi,3.0,3.0,4.5,3.5,3.0,3.0,2.0,3.5,4.5,7.3,tom,Yes,3.5
+mikes taco club,california,2.5,4.0,4.5,3.5,5.0,2.5,2.0,4.0,4.0,8.59,scott,Yes,4.3
+mikes taco club,california,3.5,4.5,4.5,4.0,4.5,4.0,4.0,4.0,5.0,8.59,brad,Yes,4.5
+la perla cocina,addiction,3.5,4.0,4.0,2.0,3.0,1.5,3.0,2.5,3.0,7.99,scott,No,2.5
+la perla cocina,oaxacalifornia,3.0,4.0,4.5,3.5,4.0,3.0,2.0,2.5,4.0,9.99,emily,Yes,4.0
+porkyland,deborah's special,3.5,4.0,4.5,3.5,2.5,4.5,4.5,4.0,5.0,8.25,scott,Yes,4.0
+porkyland,chicken nopalito,2.5,2.5,2.5,4.0,3.5,3.0,2.5,3.0,5.0,7.95,emily,Yes,3.3
+porkyland,chicken nopalito,2.0,4.0,5.0,4.0,4.0,3.0,5.0,3.0,5.0,7.95,tara,Yes,4.0
+porkyland,california,3.0,4.0,5.0,3.0,5.0,3.0,2.0,4.0,5.0,8.75,andy,Yes,4.0
+rigoberto's taco shop,california,3.0,3.0,4.5,4.0,4.5,4.0,4.5,4.5,4.5,6.6,scott,Yes,4.5
+rigoberto's taco shop,california,3.0,3.0,5.0,3.5,3.0,4.5,2.5,3.0,4.0,6.6,scott,Yes,3.6
+rigoberto's taco shop,surf & turf,3.5,3.0,5.0,3.5,2.5,3.0,2.5,3.75,4.0,7.45,bankole,No,3.0
+rudy's taco shop,chicken,3.5,3.5,3.0,4.0,4.5,3.0,1.0,3.0,0.5,6.6,scott,No,2.8
+rudy's taco shop,carnitas,3.0,3.0,2.5,3.0,4.0,2.0,1.0,3.0,5.0,6.6,emily,No,3.0
+taco stand,carne asada,3.5,3.0,2.0,4.5,4.0,4.0,1.5,4.5,4.5,7.89,scott,Yes,4.4
+taco stand,carne asada,2.0,3.0,2.5,4.5,3.5,4.5,3.0,4.0,5.0,7.89,richard,Yes,3.5
+california burritos,california everything,4.0,4.5,4.5,2.5,3.5,3.5,3.5,3.0,5.0,6.25,scott,Yes,4.1
+california burritos,california everything,3.5,4.0,4.0,4.0,2.5,3.0,3.5,4.0,5.0,6.25,brent,No,4.0
+california burritos,california everything,4.0,4.0,4.5,4.5,5.0,5.0,5.0,4.5,5.0,6.25,luis,Yes,4.6
+jorge's mexicatessen,california,3.5,2.5,2.5,3.5,4.0,3.0,4.5,4.0,4.5,5.95,scott,Yes,3.8
+senor grubby's,california,2.0,2.0,3.5,3.0,1.5,1.0,1.0,2.5,3.5,9.0,scott,No,1.5
+senor grubby's,pastor,2.0,2.5,2.5,1.5,2.5,1.0,2.0,2.5,5.0,9.0,emily,No,1.8
+taco stand,california,4.0,4.5,5.0,5.0,5.0,4.5,5.0,3.0,5.0,8.0,sage,Yes,4.9
+mi asador mexican & seafood,california,3.0,3.0,2.5,3.0,2.5,2.5,2.0,3.5,4.0,6.89,scott,No,3.0
+mi asador mexican & seafood,el hawaiiano,3.0,4.0,3.0,2.5,3.5,3.0,3.0,3.5,3.5,6.39,emily,Yes,3.5
+sotos mexican food,california,3.0,4.5,4.0,3.0,4.0,1.0,3.0,4.5,4.5,6.75,scott,Yes,3.5
+sotos mexican food,pastor,2.0,4.0,2.0,2.5,4.0,4.0,3.0,3.5,5.0,5.99,emily,No,3.2
+taco stand,california,3.5,3.5,4.0,4.0,4.0,3.5,3.0,4.0,3.0,7.49,scott,Yes,4.2
+taco stand,california,4.0,4.0,3.5,4.0,4.0,4.5,5.0,4.5,4.5,7.49,ricardo,Yes,4.5
+taco stand,california,4.0,3.0,3.0,4.0,3.5,3.5,4.0,3.5,2.5,7.49,luis,Yes,3.7
+taco stand,california,3.0,4.0,2.0,5.0,5.0,1.0,3.0,5.0,3.0,7.49,elynn,Yes,4.0
+taco stand,california,1.0,4.0,3.0,4.0,4.5,5.0,4.5,3.0,4.0,7.49,sandra,Yes,4.0
+taco stand,carne asada,4.0,4.0,2.0,4.0,3.0,4.0,4.0,4.0,4.0,7.89,brent,Yes,3.5
+vallarta express,california,4.0,3.0,3.5,2.0,3.5,3.0,2.5,2.5,2.0,6.95,scott,No,2.9
+lolita's taco shop,california,3.5,3.0,5.0,3.0,3.5,3.0,1.5,3.0,4.0,7.0,scott,No,3.3
+lolita's taco shop,2 in 1,3.0,3.0,4.0,2.7,4.7,3.0,2.4,2.0,4.5,8.75,bankole,Yes,3.7
+lolita's taco shop,2 in 1,4.0,4.5,3.8,3.8,4.5,3.4,1.5,3.0,4.0,8.75,katie,Yes,3.8
+rigoberto's taco shop,el rusio,4.0,3.0,4.5,2.5,2.0,3.5,5.0,1.5,1.5,6.65,scott,No,2.5
+rigoberto's taco shop,carne asada,4.0,4.0,3.5,4.0,4.0,3.5,4.0,4.0,4.5,6.6,ricardo,Yes,4.0
+rigoberto's taco shop,carnitas,4.0,4.0,5.0,4.0,5.0,5.0,4.0,5.0,4.0,7.5,elynn,Yes,4.0
+karina's taco shop,bomb,3.0,4.0,4.0,4.0,3.5,2.5,3.5,4.0,2.5,7.99,scott,Yes,3.7
+karina's taco shop,california,2.5,3.5,4.0,3.5,3.5,3.0,1.0,4.0,4.5,6.99,emily,Yes,3.8
+juanita's taco shop,california,3.5,4.0,4.5,3.0,3.0,5.0,3.0,4.0,5.0,5.55,scott,Yes,3.5
+juanita's taco shop,arizona,2.5,4.5,4.0,3.5,4.0,3.5,4.0,3.0,5.0,5.55,emily,Yes,3.9
+goody's,custom,3.5,1.5,1.0,2.0,2.0,2.0,2.0,2.0,1.0,7.25,scott,No,1.8
+taco surf pb,california,3.5,4.0,2.0,4.0,5.0,4.0,2.0,4.0,5.0,7.14,scott,Yes,4.4
+taco surf pb,california,5.0,4.0,2.0,4.5,4.0,3.5,2.0,3.0,4.0,7.14,sage,Yes,4.1
+taco surf pb,carne asada,3.2,4.5,2.0,3.3,3.4,4.5,4.5,3.8,5.0,6.02,dan,Yes,3.7
+roberto's very mexican food,chicken asada,2.0,1.5,4.0,2.0,2.0,4.5,1.0,1.0,5.0,6.5,scott,No,1.5
+roberto's very mexican food,carnitas,3.0,2.0,3.5,4.0,2.5,3.5,1.5,1.5,5.0,5.4,emily,No,2.7
+netos mexican food,california,4.0,4.5,5.0,3.0,4.0,2.0,2.0,2.0,4.0,5.99,scott,Yes,3.2
+netos mexican food,carne adobada,3.0,3.5,4.0,3.5,3.0,3.5,3.5,2.5,2.5,5.5,emily,Yes,3.0
+lolita's taco shop,carne asada,4.0,1.5,2.5,3.0,4.5,4.0,2.0,2.75,3.0,6.25,scott,No,2.6
+lolita's taco shop,shrimp,3.5,3.0,3.0,4.0,4.0,3.5,3.5,2.5,0.5,8.95,emily,Yes,3.0
+los primos mexican food,california,4.0,3.0,5.0,3.5,3.5,4.0,4.0,2.5,5.0,7.5,sage,Yes,3.5
+el nopalito,especial,2.0,3.0,4.0,1.5,2.0,3.0,5.0,3.0,5.0,4.87,scott,No,2.6
+el nopalito,ranchero steak,2.5,3.5,3.0,2.5,2.4,3.5,4.5,3.0,1.5,4.87,emily,No,2.6
+los primos mexican food,california,3.0,4.5,4.0,3.5,4.0,1.0,1.0,2.0,4.0,7.0,ricardo,No,2.5
+los primos mexican food,california breakfast,2.5,3.0,4.0,3.0,2.0,1.5,1.0,3.0,3.0,6.25,erin,No,2.0
+los primos mexican food,baja monster,4.0,3.0,3.0,1.0,4.0,2.0,2.0,3.0,1.0,6.0,elynn,No,2.0
+los primos mexican food,baja monster,3.0,4.0,3.5,4.0,4.0,2.0,4.0,4.0,3.0,6.0,rob,Yes,3.8
+los primos mexican food,carnitas,4.5,4.0,4.0,2.5,2.0,3.0,2.0,2.0,3.0,6.35,matteo,No,2.0
+los tacos,local,3.5,3.5,4.5,4.5,4.0,1.5,1.5,3.0,5.0,7.9,scott,Yes,3.5
+los tacos,fusion,3.5,4.0,4.0,4.0,3.5,4.0,4.0,4.0,4.5,8.5,emily,Yes,4.2
+taco stand,al pastor,3.5,4.0,3.5,4.0,3.5,4.0,5.0,2.5,4.5,6.99,scott,Yes,3.9
+taco stand,al pastor,5.0,4.0,4.0,4.0,4.0,2.0,3.0,3.0,3.0,6.99,brad p,Yes,3.5
+albertacos,california,3.5,3.5,3.0,3.0,4.0,1.5,4.0,4.0,4.0,5.7,scott,Yes,3.7
+albertacos,carne asada,4.0,3.5,3.0,2.8,3.5,4.0,4.0,4.0,5.0,5.25,emily,Yes,3.2
+el rey moro,california surf,2.8,3.5,4.5,4.0,3.5,5.0,4.5,3.0,5.0,9.19,scott,Yes,4.0
+el dorado mexican food,california,4.0,4.0,4.0,4.0,4.5,3.2,3.0,4.5,2.0,6.94,scott,Yes,4.5
+el dorado mexican food,super,3.75,3.5,3.5,3.5,3.5,4.0,4.0,4.5,4.5,6.94,emily,Yes,3.8
+lolita's taco shop,california,2.2,2.8,3.0,3.0,2.0,2.0,4.5,2.0,4.5,7.0,scott,No,2.3
+lolita's taco shop,california,3.5,4.0,4.0,4.0,3.0,4.0,5.0,4.0,5.0,7.0,cris,Yes,4.0
+lolita's taco shop,california,3.0,3.5,2.0,3.0,4.0,2.0,4.0,3.0,4.0,7.0,matt,No,3.0
+lolita's taco shop,mixed,4.0,4.0,3.0,4.0,4.0,4.0,5.0,3.0,5.0,8.25,marc,Yes,3.5
+california burritos,california everything,3.0,3.8,1.3,3.5,3.5,4.5,4.5,3.5,5.0,6.25,scott,Yes,3.9
+california burritos,california everything,4.5,4.0,4.0,4.5,4.0,4.0,3.5,4.0,4.5,6.25,ricardo,Yes,4.25
+california burritos,california everything,4.0,3.0,2.5,4.0,4.0,4.0,2.0,2.0,4.0,6.25,elynn,Yes,4.0
+california burritos,california everything,4.0,4.0,3.5,4.5,4.0,4.5,4.0,4.5,5.0,6.25,luis,Yes,4.5
+california burritos,carnitas,4.5,5.0,4.0,5.0,4.0,4.5,4.0,4.0,4.0,5.5,matteo,Yes,4.5
+california burritos,carne asada everything,3.0,4.0,3.0,4.0,3.0,4.0,3.0,3.0,4.0,6.25,brent,Yes,4.0
+california burritos,carne asada everything,4.5,4.0,5.0,4.5,4.0,4.5,4.0,3.0,5.0,6.25,daniel,Yes,4.5
+california burritos,carne asada everything,5.0,4.0,3.0,5.0,4.0,4.0,4.0,5.0,3.0,6.25,alejandro,Yes,4.2
+california burritos,california everything,4.0,4.0,4.0,3.5,4.0,3.0,4.0,4.0,4.5,6.25,ricardo,Yes,3.75
+california burritos,california everything,4.0,3.0,2.0,4.0,5.0,4.0,4.0,3.0,3.0,6.25,elynn,Yes,4.0
+california burritos,california everything,4.0,4.0,3.5,3.5,4.0,3.5,4.0,3.5,4.5,6.25,matteo,Yes,4.0
+california burritos,california everything,3.5,3.5,2.0,3.0,3.5,3.5,2.5,2.5,4.5,6.25,scott,Yes,3.4
+california burritos,carne asada everything,4.5,4.5,4.0,4.0,4.5,4.0,4.0,4.5,4.0,6.25,brent,Yes,4.0
+los primos mexican food,surf & turf,2.5,4.0,4.0,2.0,3.0,2.0,3.5,3.0,4.5,7.0,emily,No,2.5
+los primos mexican food,adobada,2.0,4.0,2.5,2.5,3.0,2.0,4.0,3.5,4.5,6.25,scott,No,2.6
+los primos mexican food,carne asada,4.0,3.5,3.0,2.0,2.0,1.0,3.0,3.5,4.0,7.0,ricardo,No,2.0
+papa chito's mexican food,california,3.5,3.5,3.5,2.5,2.5,2.5,4.0,2.0,5.0,6.25,scott,No,2.2
+papa chito's mexican food,california,4.0,4.0,5.0,3.0,3.0,4.0,3.5,4.0,5.0,6.25,sage,Yes,3.75
+el pueblo mexican food,california,4.0,4.5,4.5,3.5,4.0,4.5,5.0,2.5,5.0,4.99,scott,Yes,4.3
+burros and fries,california,4.0,3.5,4.5,3.5,3.5,3.0,1.5,2.5,5.0,6.89,scott,Yes,3.5
+burros and fries,carne asada,5.0,3.0,5.0,4.5,4.5,3.0,4.0,4.5,4.5,6.89,brent,Yes,4.0
+king burrito,adobada,3.5,3.0,3.0,3.0,3.0,2.5,2.0,2.5,4.0,4.99,emily,No,2.8
+king burrito,california,3.5,2.5,4.5,2.0,3.0,2.5,1.5,3.0,4.5,5.29,scott,No,2.5
+taco stand,california,2.0,4.0,5.0,4.5,3.5,3.5,2.0,3.5,5.0,7.49,scott,Yes,4.0
+taco stand,california,2.5,3.5,5.0,4.0,3.0,4.0,4.5,3.0,5.0,7.49,tj,Yes,4.0
+carmen's mexican food,adobada,3.5,2.5,4.0,3.5,4.0,4.0,3.0,1.5,5.0,6.5,scott,Yes,3.6
+carmen's mexican food,carne asada,5.0,4.5,4.5,3.5,4.0,4.0,3.5,4.0,4.0,6.5,brent,Yes,4.0
+senor panchos,pollo asado,3.5,2.5,3.5,3.0,3.0,5.0,4.5,3.5,5.0,6.25,scott,No,2.9
+senor panchos,california,3.0,3.0,4.0,4.0,3.0,3.5,4.5,4.0,5.0,6.25,emily,Yes,4.0
+los cabos,california,4.0,4.0,4.5,2.5,2.5,2.5,1.5,3.0,5.0,5.99,scott,No,3.0
+los cabos,al pastor,3.0,4.0,4.5,3.0,3.5,4.0,3.5,2.5,4.5,5.69,emily,Yes,4.0
+rubios ucsd,tilapia one,3.5,1.5,4.0,3.0,3.0,1.5,4.5,2.5,1.5,7.99,scott,No,3.2
+lucha libre north park,surf & turf,4.0,3.0,2.5,3.0,3.0,3.0,3.0,3.5,3.0,8.25,hannah,Yes,3.0
+lucha libre north park,surf & turf,3.0,5.0,3.0,5.0,4.0,2.0,2.0,5.0,2.0,8.25,tammy,No,2.0
+lucha libre north park,surf & turf,3.9,2.1,1.9,2.6,2.4,2.9,3.2,4.0,3.0,8.25,bankole,No,2.4
+lucha libre north park,surf & turf,4.0,3.0,2.5,2.0,2.8,3.5,3.5,4.0,4.0,8.25,melissa n,No,2.2
+lucha libre north park,surfin california,3.0,3.0,3.0,4.0,3.5,3.0,2.0,3.5,4.0,8.25,emily,Yes,3.9
+lucha libre north park,surfin california,4.0,3.5,2.0,4.0,3.0,5.0,5.0,4.0,5.0,8.25,melissa g,Yes,3.5
+lucha libre north park,surfin california,4.0,4.0,3.0,3.0,3.0,3.0,2.0,3.0,4.0,8.25,marc,Yes,3.0
+lucha libre north park,surfin california,1.0,3.0,2.0,4.0,3.0,5.0,5.0,4.0,5.0,8.25,ashley g,Yes,3.5
+lucha libre north park,surfin california,2.0,3.5,2.0,5.0,3.5,4.0,2.5,3.5,3.5,8.25,richard,Yes,3.5
+lucha libre north park,surfin california,3.0,5.0,4.0,4.0,4.0,3.0,3.0,4.0,4.0,8.25,mike,Yes,4.0
+lucha libre north park,surfin california,1.0,4.0,3.0,3.5,3.0,5.0,4.0,2.0,4.0,8.25,sankha g,No,3.0
+lucha libre north park,nutty,3.8,3.8,4.0,4.0,4.0,4.0,4.0,4.5,4.5,7.5,luis,Yes,4.4
+lucha libre north park,california - steak,2.5,3.0,3.0,5.0,3.5,3.0,3.5,4.5,4.5,7.5,scott,Yes,3.9
+lucha libre north park,california - steak,5.0,3.5,3.0,2.0,3.0,3.0,2.0,4.0,5.0,7.5,devleena,Yes,3.5
+lucha libre north park,california - pork adobada,4.0,2.0,3.0,3.0,3.0,4.0,3.0,4.0,5.0,7.5,erik,Yes,3.0
+lucha libre north park,california - pork adobada,4.5,3.5,4.0,4.5,4.0,3.5,3.5,4.0,4.5,7.5,ricardo,Yes,4.25
+lucha libre north park,california - pork adobada,2.0,4.0,5.0,5.0,4.0,4.5,4.5,5.0,4.0,7.5,erin,Yes,4.5
+lucha libre north park,california - chicken,4.0,3.5,2.5,3.0,4.5,3.0,2.0,5.0,3.5,7.5,kelsey,Yes,2.5
+lucha libre north park,california - chicken,3.0,3.5,5.0,3.5,4.0,3.0,3.0,4.0,5.0,7.5,javier,No,3.0
+lucha libre north park,holy moly,5.0,3.5,2.0,3.5,3.5,3.0,4.0,2.0,4.0,7.5,sam a,Yes,3.5
+lucha libre north park,holy moly,3.0,2.5,2.5,3.0,2.0,2.0,1.0,5.0,5.0,7.5,sage,No,1.5
+lucha libre north park,holy moly,4.0,5.0,3.0,5.0,5.0,3.0,2.0,2.0,5.0,7.5,aaron s,Yes,4.0
+lucha libre north park,holy moly,5.0,5.0,4.0,2.0,1.0,4.0,3.0,5.0,2.0,7.5,jaeyoung,No,2.0
+lucha libre north park,holy moly,4.5,4.0,4.0,3.5,4.5,4.0,4.0,5.0,4.0,7.5,matteo,Yes,4.0
+cancun mexican & seafood,adobada,3.0,4.0,5.0,3.5,3.0,3.5,3.5,4.0,4.0,6.45,scott,Yes,3.5
+cancun mexican & seafood,california,4.0,3.0,4.5,4.0,4.0,3.5,3.0,4.0,5.0,6.99,emily,Yes,4.0
+roberto's taco shop clairemont,california,4.0,3.0,4.5,4.0,4.0,4.0,5.0,2.5,5.0,5.79,scott,Yes,3.6
+roberto's taco shop clairemont,california,4.0,4.0,3.0,4.0,2.5,3.5,4.0,2.0,5.0,5.79,benni,No,3.0
+roberto's taco shop clairemont,california + guac + sour cream,3.7,3.8,4.7,4.0,3.5,4.5,4.0,4.0,5.0,7.29,luis,Yes,4.0
+roberto's taco shop clairemont,carne asada,3.0,4.0,3.0,1.5,3.0,4.0,4.5,3.5,4.5,5.69,ricardo,No,3.0
+taco stand,al pastor,4.0,4.5,4.0,4.5,4.5,4.5,4.5,4.5,4.0,6.99,mike,Yes,4.5
+taco stand,california,4.1,4.0,4.5,4.5,4.5,4.7,4.5,4.2,5.0,7.49,luis,Yes,4.7
+los tacos,california,3.5,4.0,5.0,4.0,4.0,3.0,4.0,3.5,4.0,7.9,scott,Yes,4.2
+los tacos,local,3.5,4.0,3.5,4.5,4.5,3.5,3.5,3.5,3.0,7.9,emily,Yes,4.3
+el cuervo,california,3.5,3.5,3.5,3.0,4.0,3.0,3.0,4.5,2.0,6.95,scott,Yes,3.6
+el cuervo,pollo adobado,4.0,3.5,5.0,4.5,3.5,4.0,4.5,4.5,5.0,5.95,richard,Yes,4.0
+el torrito foods,asada,4.0,3.0,5.0,3.0,3.0,2.5,4.0,3.5,5.0,5.49,scott,Yes,3.1
+el torrito foods,adobada,4.5,3.5,4.0,3.0,2.5,2.8,4.0,2.5,5.0,3.99,emily,No,2.6
+la morena taco shop and seafood,california,4.0,4.0,2.5,4.0,3.0,4.5,2.0,2.0,4.0,6.35,erin,No,3.0
+taco villa,carnitas,2.5,3.2,3.8,4.5,2.8,4.0,2.0,1.8,5.0,5.99,scott,Yes,4.0
+rigoberto's taco shop,campeon,4.5,3.5,4.5,2.5,2.5,1.0,1.5,3.0,3.0,7.65,scott,No,2.7
+rigoberto's taco shop,california,3.5,4.0,4.5,4.0,4.0,4.5,5.0,4.5,4.5,6.6,ricardo,Yes,4.25
+rigoberto's taco shop,carnitas,3.0,4.0,4.0,5.0,5.0,4.5,3.0,2.0,4.0,6.6,elynn,Yes,4.0
+taco villa,al pastor,4.0,3.5,3.5,2.0,3.0,4.5,4.5,3.0,5.0,5.99,scott,No,3.2
+valentines mexican food,california,4.0,4.0,4.0,4.0,4.0,4.5,4.0,4.0,2.5,7.9,scott,Yes,4.2
+valentines mexican food,california chipotle,3.0,4.0,4.0,3.5,4.5,4.0,3.5,2.5,1.5,7.9,emily,Yes,4.0
+matador mexican food,carnitas,3.2,1.4,3.7,3.0,3.2,4.8,2.4,3.0,3.0,6.6,scott,No,3.0
+matador mexican food,carne asada,4.0,4.0,3.5,3.5,3.5,4.0,3.0,3.5,4.5,6.6,brent,No,3.0
+jose's taco,california,4.0,3.5,3.5,2.0,3.5,4.5,3.5,3.0,4.0,6.1,scott,No,3.3
+cortez mexican food,california,4.0,3.5,4.0,2.5,3.0,1.5,2.5,2.5,5.0,6.25,scott,No,3.2
+california burrito company,dave's california,4.0,3.0,2.5,2.5,3.0,4.0,3.5,2.5,5.0,6.5,scott,No,3.3
+california burrito company,california,4.0,3.5,5.0,3.0,3.0,3.5,3.5,2.0,5.0,5.5,devleena,Yes,3.5
+california burrito company,california,2.0,3.0,5.0,3.0,4.0,2.0,2.0,2.0,4.0,5.5,sankha g,Yes,3.5
+taco villa,california,3.5,3.0,3.0,3.0,3.0,3.7,3.5,3.8,5.0,6.99,scott,Yes,3.5
+california burrito company,fajitas,3.0,3.0,4.5,3.5,1.5,1.5,2.0,3.2,4.5,6.5,scott,No,2.2
+california burrito company,california,3.0,3.0,4.0,4.5,3.0,2.0,4.0,4.5,4.5,5.5,ricardo,No,3.5
+taco villa,breakfast,4.0,4.5,5.0,3.0,3.0,3.0,2.5,0.0,5.0,4.99,sage,Yes,3.0
+california burritos,california everything,4.0,4.0,2.0,4.0,3.0,4.0,5.0,3.0,4.0,6.95,elynn,Yes,4.0
+california burritos,surf & turf,4.0,3.0,3.0,3.5,4.0,4.0,3.0,3.0,3.5,7.0,hannah,Yes,5.0
+taco villa,carnitas,3.0,4.0,3.0,4.0,3.0,4.0,2.0,3.5,5.0,5.95,scott,Yes,3.9
+taco villa,tejano,3.5,2.0,5.0,4.2,3.0,4.7,5.0,3.7,5.0,6.99,sage,Yes,4.0
+taco stand encinitas,california,4.0,2.0,3.5,4.2,4.3,4.0,2.2,4.5,2.2,7.49,scott,Yes,4.2
+taco stand encinitas,california,2.0,3.8,3.8,4.0,4.2,3.75,4.0,4.75,3.8,7.49,emily,Yes,4.2
+donato's taco shop,al pastor,4.0,3.0,4.5,3.7,2.8,5.0,4.5,3.0,4.5,5.99,scott,No,3.0
+donato's taco shop,carne asada,2.0,2.0,4.0,4.5,4.0,4.0,3.0,4.0,2.0,5.99,elynn,Yes,4.0
+ortiz's taco shop #2,california,4.0,4.0,4.0,4.0,4.0,4.5,4.5,4.2,4.5,6.39,scott,Yes,4.25
+ortiz's taco shop #2,california chicken,4.25,2.0,4.0,3.7,2.0,4.0,4.5,4.5,5.0,6.39,sage,No,2.66
+ortiz's taco shop #2,california,4.5,3.0,4.4,4.0,4.0,4.5,4.2,4.3,5.0,6.39,shijia,Yes,4.2
+el portal fresh mexican grill,mahi,2.3,4.0,4.0,3.5,2.0,1.5,2.0,2.0,1.2,7.35,scott,No,3.1
+el portal fresh mexican grill,carnitas,3.75,3.5,4.0,4.0,3.0,3.75,4.0,3.0,4.5,6.7,emily,Yes,3.75
+el zarape,california,4.0,2.5,4.0,3.75,4.0,3.75,5.0,4.0,5.0,6.25,scott,Yes,3.9
+el zarape,california,3.0,4.0,4.0,2.0,2.0,4.0,3.0,3.0,5.0,6.25,erik,No,3.0
+famoso mexican street food,cali diablo,3.0,2.0,2.5,3.3,3.5,1.5,4.0,2.5,3.0,10.5,scott,No,3.1
+valentines mexican food,carne asada,3.0,4.5,4.7,4.5,3.5,4.0,4.5,4.5,5.0,6.75,scott,Yes,4.2
+valentines mexican food,pork california,4.0,5.0,5.0,4.0,5.0,5.0,3.0,4.0,3.0,7.9,justin k,Yes,5.0
+valentines mexican food,california,4.0,3.0,5.0,5.0,4.0,5.0,4.0,3.0,2.0,7.9,shreejoy,Yes,4.5
+valentines mexican food,california,4.0,4.0,4.0,3.0,4.0,4.0,4.0,3.0,4.0,7.9,@synapticlee,Yes,4.0
+valentines mexican food,california,3.5,4.0,3.5,4.7,4.0,4.5,4.5,4.5,3.5,7.9,@danjlurie,Yes,4.7
+cancun mexican & seafood,california,4.3,4.8,5.0,4.0,4.4,5.0,4.0,4.3,5.0,6.99,scott,Yes,4.5
+cancun mexican & seafood,california,4.0,4.5,4.5,4.0,4.5,4.0,4.0,3.5,5.0,6.99,emily,Yes,4.5
+los panchos taco shop,california,3.0,3.5,5.0,4.0,3.0,4.0,3.0,3.5,3.0,6.25,scott,Yes,3.7
+los panchos taco shop,bitchin california,4.0,4.0,4.0,5.0,4.5,4.0,3.5,5.0,5.0,7.25,richard,Yes,4.4
+los panchos taco shop,tijuana,3.5,4.0,4.0,3.5,4.0,4.0,3.5,4.5,3.5,7.0,tom,Yes,3.7
+pollos maria,combo chicken,3.5,3.5,2.5,4.0,3.5,3.0,2.5,2.5,0.5,6.99,scott,Yes,3.8
+pollos maria,carne asada,3.0,3.5,4.0,3.0,4.0,3.5,4.0,3.0,4.5,6.49,emily,No,3.5
+el pollo loco,chicken avocado,3.5,2.0,3.0,3.8,2.5,2.5,3.0,2.5,2.6,5.99,scott,No,3.2
+gloria's taco shop,california,3.0,4.0,1.5,2.0,3.0,4.2,4.0,3.0,4.5,5.65,scott,No,2.7
+gloria's taco shop,cabeza,3.0,4.5,5.0,2.0,2.0,2.5,3.5,3.0,3.0,5.49,richard,No,2.0
+mr. ruribertos taco shop,california,4.0,3.5,2.5,3.0,3.3,1.4,2.3,2.2,4.5,7.75,scott,No,2.9
+mr. ruribertos taco shop,carne asada,4.0,4.0,4.5,2.0,2.0,3.5,3.5,2.0,4.0,7.75,brent,No,3.0
+los tacos,fusion,3.9,3.0,4.5,4.1,3.0,3.7,4.0,4.3,5.0,8.5,scott,Yes,3.9
+los tacos,local,4.0,3.5,4.0,4.0,3.0,4.0,4.5,4.0,4.8,7.9,emily,Yes,3.8
+taco villa,chicken,3.5,2.5,4.5,3.0,2.5,3.0,3.0,2.0,4.0,4.99,scott,No,3.0
+lupe's taco shop,hot cheetos,3.5,3.0,2.0,3.5,3.5,3.0,2.5,3.7,4.2,7.29,scott,Yes,3.7
+lupe's taco shop,surfin california,3.0,4.0,5.0,4.5,4.0,4.5,3.5,3.0,2.5,7.89,richard,Yes,4.25
+lupe's taco shop,california,3.7,4.0,3.5,3.9,4.0,3.7,2.0,3.5,4.0,7.49,tom,Yes,3.9
+los tacos,local,3.5,4.5,5.0,4.0,3.5,4.0,2.8,4.0,3.7,7.9,scott,Yes,4.2
+los tacos,local,2.0,4.2,4.0,4.2,3.8,4.0,3.0,3.8,5.0,7.9,emily,Yes,4.2
+taco villa,pollo asado,4.5,2.0,4.0,2.5,3.5,4.5,3.0,2.0,3.4,5.99,scott,No,3.1
+taco villa,al pastor,3.5,2.5,4.5,4.0,4.0,2.0,3.0,3.0,4.0,6.99,ricardo,No,3.0
+rigoberto's taco shop la jolla,california,3.5,3.0,2.0,3.5,3.5,4.0,3.0,3.5,4.5,6.85,scott,Yes,3.6
+rigoberto's taco shop la jolla,california,4.0,5.0,5.0,4.5,4.0,5.0,4.0,4.0,5.0,6.85,nihal,Yes,4.3
+cotixan,california,4.5,4.0,2.0,3.0,3.8,3.5,2.0,4.0,4.0,7.19,scott,Yes,3.5
+los tacos,local,2.5,3.0,4.5,4.3,4.0,3.0,3.1,3.9,3.0,7.9,scott,Yes,4.1
+los tacos,local,3.0,3.0,3.5,4.5,4.0,4.0,4.0,4.0,3.5,7.9,emily,Yes,4.0
+los tacos,local,3.0,3.5,4.0,4.0,4.0,4.5,3.5,4.0,4.0,7.9,spencer,Yes,4.0
+lourdes,carnitas,3.5,3.5,3.0,3.5,3.0,4.5,4.5,4.0,5.0,7.35,emily,Yes,3.75
+lourdes,california,3.5,4.0,3.0,3.0,3.0,2.5,3.0,3.5,5.0,6.35,scott,No,3.1
+california burritos,california everything,4.5,4.5,3.0,3.5,4.5,3.5,4.0,3.5,4.3,6.5,scott,Yes,4.1
+california burritos,california everything,4.0,4.0,3.5,4.5,4.0,3.5,4.5,4.0,4.5,6.5,ricardo,Yes,4.0
+california burritos,california everything mini,4.0,4.0,4.0,4.5,4.3,4.5,4.5,4.8,5.0,4.75,luis,Yes,4.5
+california burritos,surf & turf,4.0,4.0,4.0,4.0,3.5,3.5,3.0,2.0,3.5,6.75,hannah,Yes,3.5
+california burritos,california everything,4.0,3.0,3.0,4.0,4.0,4.0,4.0,3.0,4.0,6.5,clark,Yes,4.0
+los palmitos,california,4.0,4.5,5.0,3.8,3.8,4.0,4.0,3.9,5.0,7.1,scott,Yes,4.3
+los palmitos,surf & turf,3.5,3.5,4.0,4.0,3.0,3.5,4.5,3.5,5.0,8.25,emily,Yes,3.6
+taco villa,carnitas,4.0,2.0,4.5,4.5,3.0,3.8,4.4,2.5,3.0,5.99,scott,Yes,4.0
+taco villa,carnitas,4.0,4.0,4.0,4.0,3.0,4.0,3.5,2.5,5.0,5.99,richard,Yes,3.5
+lupe's taco shop,tgunz,3.0,3.0,4.0,3.2,3.5,1.8,1.8,3.5,3.5,10.0,scott,Yes,3.9
+lupe's taco shop,tgunz,4.2,3.0,4.5,3.5,3.5,2.5,2.0,3.0,4.5,10.0,ricardo,Yes,3.5
+filiberto's,adobada,4.4,4.2,4.5,4.0,3.0,5.0,3.8,2.5,5.0,6.25,scott,Yes,3.7
+filiberto's,california,3.0,4.5,4.5,3.7,3.5,4.0,3.5,3.0,4.5,6.25,emily,Yes,4.0
+don carlos taco shop,california,5.0,3.5,4.2,3.3,3.7,4.0,4.0,2.9,5.0,7.75,scott,Yes,3.7
+don carlos taco shop,california,2.5,4.0,4.0,2.6,3.6,4.0,4.0,3.6,4.0,7.75,luis,No,2.9
+rubios ucsd,grilled fish salmon,4.0,3.5,3.0,3.5,3.5,4.0,2.0,4.0,4.0,8.99,tom,Yes,3.4
+rigoberto's taco shop,california,4.0,3.5,5.0,3.3,3.0,5.0,2.0,3.0,3.5,6.85,scott,Yes,3.9
+rigoberto's taco shop,california,4.0,4.0,5.0,4.0,4.0,5.0,3.5,2.0,4.0,6.85,elynn,Yes,4.0
+el dorado mexican food,california,3.3,5.0,4.0,4.2,3.5,2.9,3.0,4.0,4.0,7.4,scott,Yes,4.0
+el dorado mexican food,california,3.5,4.5,4.0,4.0,3.5,3.0,3.0,2.5,3.8,7.4,emily,Yes,3.8
+los tacos 2,cheese steak,4.2,3.5,5.0,3.0,1.5,3.0,2.5,3.0,2.5,9.95,scott,No,2.8
+roberto's taco shop hillcrest,asada,3.5,4.0,4.0,2.0,2.5,4.5,4.0,3.0,4.5,7.0,scott,No,2.8
+roberto's taco shop hillcrest,california surf and turf,3.0,3.5,4.0,4.0,4.0,4.5,4.5,2.0,4.0,9.0,richard,Yes,4.0
+roberto's taco shop hillcrest,california,3.5,3.0,3.0,2.0,2.0,3.0,2.0,3.0,3.0,7.0,tom,No,2.2
+burros and fries,shrimp california,4.0,3.0,4.0,4.0,2.5,2.5,3.0,3.0,5.0,6.99,emily,No,3.0
+burros and fries,california,3.5,3.5,4.5,3.5,3.5,3.0,3.5,4.0,5.0,7.19,scott,Yes,3.8
+cotixan,california,4.3,3.0,3.0,3.5,3.5,3.5,3.5,3.8,5.0,6.9,scott,Yes,3.7
+vallarta express,surf & turf,3.0,3.0,2.5,3.0,3.0,3.5,2.8,3.5,1.5,8.55,scott,No,3.0
+vallarta express,california,2.5,3.0,2.0,3.5,3.0,3.0,4.0,3.0,4.5,7.8,emily,Yes,3.5
+caliente mexican food,carne asada,2.5,2.5,3.0,2.5,3.5,4.5,4.5,3.7,4.5,5.56,scott,Yes,3.5
+caliente mexican food,carne asada,4.0,4.0,4.0,4.0,3.0,4.0,2.0,4.0,3.0,5.56,chris g,Yes,4.0
+caliente mexican food,california,4.0,1.0,2.0,2.0,2.0,3.0,3.0,1.0,3.0,6.47,erik k,No,2.0
+taco villa,carne asada,3.0,3.0,4.5,2.0,3.0,2.5,4.0,2.0,4.0,6.99,richard,No,2.0
+los tacos 2,local,3.8,4.0,4.5,3.0,4.0,3.0,2.5,3.5,3.0,8.5,scott,Yes,4.0
+los tacos 2,local,4.0,4.0,4.0,3.75,4.0,3.5,3.5,4.0,3.5,8.5,emily,Yes,4.0
+valentines mexican food,carne asada,4.0,4.0,4.5,3.5,3.5,4.5,4.5,3.0,4.0,6.75,scott,Yes,3.9
+vallarta express,california,4.5,3.0,3.0,4.0,3.0,4.0,2.5,4.0,4.0,8.35,scott,Yes,4.1
+lalo's tacos,california,3.0,3.75,5.0,3.0,3.5,5.0,5.0,2.0,2.8,7.75,daniel a,No,2.8
+roberto's taco shop hillcrest,california,4.0,4.5,5.0,4.0,4.0,4.0,3.7,3.8,4.8,7.0,simon,Yes,4.2
+kotija jr,california,4.0,4.0,5.0,3.5,3.8,3.0,2.5,3.3,5.0,6.99,scott,Yes,3.7
+kotija jr,steak fajitas,3.0,3.5,5.0,4.0,4.0,4.5,4.75,3.75,5.0,7.1,emily,Yes,4.2
+el rey moro,hashbrown,4.0,3.0,3.0,2.0,2.5,1.5,2.5,2.5,5.0,6.47,scott,No,3.2
+el rey moro,hashbrown,3.5,2.5,3.5,3.5,3.5,3.5,4.0,3.0,4.5,8.94,emily,Yes,3.8
+taco villa,carnitas,2.0,2.0,2.5,4.0,3.0,4.0,3.5,3.0,5.0,5.99,scott,Yes,3.8
+taco villa,carne asada,3.5,4.0,4.0,4.0,4.5,4.0,3.5,4.0,4.0,6.99,nuttida,Yes,4.3
+los tacos,local,3.5,3.5,4.0,4.5,4.0,3.0,4.0,3.5,5.0,8.5,scott,Yes,4.3
+los tacos,local,3.5,4.0,4.0,4.0,4.5,4.2,4.5,4.0,4.8,8.5,emily,Yes,4.5
+rigoberto's taco shop,california,3.5,3.0,4.5,3.8,3.8,4.0,3.5,3.5,3.0,6.85,scott,Yes,4.1
+rigoberto's taco shop,california,3.5,3.0,4.5,4.0,4.0,4.5,3.0,4.0,3.5,6.85,sage,Yes,4.25
+taco stand,california,4.0,4.0,3.0,4.0,4.0,3.0,4.0,3.5,4.5,7.89,scott,Yes,4.2
+taco stand,california,5.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,3.0,7.89,ben s,Yes,4.5
+lolita's taco shop,california,4.0,4.0,5.0,4.0,5.0,5.0,3.0,3.0,5.0,7.25,ben s,Yes,3.5
+los tacos 2,local,4.0,4.0,4.0,3.0,3.5,1.0,2.0,3.0,1.0,8.5,scott,No,3.0
+rigoberto's taco shop,carne asada,3.0,4.0,5.0,4.0,3.0,3.0,3.0,4.0,4.0,7.2,han mee,Yes,4.0
+taco villa,carnitas,3.0,3.5,5.0,4.3,3.5,5.0,4.0,3.0,2.0,5.99,scott,Yes,4.1
+taco villa,carnitas,3.5,4.0,4.5,5.0,4.5,5.0,4.0,4.0,4.0,5.99,nuttida,Yes,4.0
+taco villa,carnitas,2.0,2.0,3.5,4.5,4.0,4.0,2.0,3.0,2.0,5.99,elynn,Yes,3.5
+mikes taco club,california,4.0,4.5,4.5,4.0,4.0,3.0,4.0,3.5,3.0,8.99,scott,Yes,4.2
+taco villa,chile verde (pork),3.5,4.0,4.5,3.5,3.0,4.5,3.0,3.0,2.5,5.99,scott,Yes,3.6
+el zarape,supreme chicken,4.0,4.0,4.0,3.5,4.2,4.5,4.3,3.0,4.5,7.5,tom,Yes,3.8
+taco villa,carnitas,3.0,2.0,5.0,4.5,3.5,4.5,4.5,2.5,1.5,5.99,scott,Yes,4.0
+taco villa,carnitas,5.0,4.0,4.5,3.5,4.0,4.0,3.5,4.0,3.5,5.99,nuttida,Yes,4.0
+lucha libre carlsbad,alambre california,3.2,3.8,4.0,4.0,4.0,3.8,3.4,4.3,5.0,8.5,scott,Yes,4.1
+lucha libre carlsbad,surfin california,3.0,3.5,3.0,3.8,4.0,3.8,4.5,4.5,5.0,9.5,emily,Yes,3.9
+lucha libre carlsbad,ado-haba california,3.2,3.5,1.0,3.0,3.0,3.4,4.0,4.5,4.0,8.5,scott,No,3.1
+lucha libre carlsbad,ala tingada california,3.0,3.0,2.5,3.5,3.0,1.0,1.0,4.0,5.0,8.5,emily,No,1.5
+taco villa,california,4.0,3.5,3.0,3.2,3.2,3.2,4.0,3.0,4.5,6.99,scott,No,3.2
+taco villa,carnitas,3.5,2.5,3.0,4.0,3.5,2.5,2.5,3.3,4.0,5.99,scott,Yes,3.7
+tony's fresh mexican food,la paz,4.0,5.0,5.0,3.0,3.0,4.0,4.0,2.0,3.0,9.99,mike,Yes,4.0
+tony's fresh mexican food,adobada,4.0,5.0,4.0,4.0,3.0,4.0,5.0,4.0,5.0,7.39,nick g.,Yes,4.0
+tony's fresh mexican food,adobada,4.5,3.5,4.5,4.0,3.5,2.0,1.0,3.5,4.0,7.39,ricardo,Yes,3.5
