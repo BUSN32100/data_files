@@ -1,4 +1,4 @@
-Location,Burrito,Hunger,Tortilla,Temp,Meat,Fillings,Meat:filling,Uniformity,Salsa,Wrap,Cost,Reviewer,Rec,overall
+Location,Burrito,Hunger,Tortilla,Temp,Meat,Fillings,MeatToFilling,Uniformity,Salsa,Wrap,Cost,Reviewer,Rec,overall
 senor grubby's,california,2,2,3.5,3,1.5,1,1,2.5,3.5,9,scott,No,1.5
 roberto's very mexican food,chicken asada,2,1.5,4,2,2,4.5,1,1,5,6.5,scott,No,1.5
 lucha libre north park,holy moly,3,2.5,2.5,3,2,2,1,5,5,7.5,sage,No,1.5
