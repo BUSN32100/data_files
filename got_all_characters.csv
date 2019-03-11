@@ -1,4 +1,4 @@
-name,title,male,culture,dateOfBirth,DateoFdeath,mother,father,heir,house,spouse,book1,book2,book3,book4,book5,isAliveMother,isAliveFather,isAliveHeir,isAliveSpouse,isMarried,isNoble,age,numDeadRelations,boolDeadRelations,isPopular,popularity,isAlive
+name,title,male,culture,dateOfBirth,DateoFdeath,mother,father,heir,house,spouse,book1,book2,book3,book4,book5,isAliveMother,isAliveFather,isAliveHeir,isAliveSpouse,isMarried,isNoble,age,numDeadRelations,boolDeadRelations,isMajorChar,linkedToOther,isAlive
 Belis,Wisdom,1,,,,,,,Alchemists' Guild,,0,0,1,0,0,,,,,0,1,,0,0,0,0.02006689,1
 Garigus,Wisdom,1,,,,,,,Alchemists' Guild,,0,0,1,0,0,,,,,0,1,,0,0,0,0.02006689,1
 Hallyne,LordWisdom,1,,,,,,,Alchemists' Guild,,0,1,1,1,0,,,,,0,1,,0,0,0,0.086956522,1
